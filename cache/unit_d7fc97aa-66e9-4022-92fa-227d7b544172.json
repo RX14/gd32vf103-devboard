@@ -1,0 +1,155 @@
+{
+    "manufacturer": "GigaDevice",
+    "name": "GD32VF103CB Port B",
+    "pins": {
+        "000a170a-515a-4b5f-ab0a-bf7335c4b1cf": {
+            "direction": "bidirectional",
+            "names": [
+                "BOOT1"
+            ],
+            "primary_name": "PB2",
+            "swap_group": 0
+        },
+        "106cce99-786c-46d0-82aa-229ed2795c6b": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI1_SCK",
+                "I2S1_CK",
+                "USART2_CTS",
+                "TIMER0_CH0_ON",
+                "CAN1_TX"
+            ],
+            "primary_name": "PB13",
+            "swap_group": 0
+        },
+        "191aa552-5272-4416-8eee-4b8b8f40eaf4": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC01_IN9",
+                "TIMER2_CH3",
+                "TIMER0_CH2_ON"
+            ],
+            "primary_name": "PB1",
+            "swap_group": 0
+        },
+        "2473e686-05a7-47dc-b6fc-39491d9d54c7": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C1_SDA",
+                "USART2_RX",
+                "TIMER1_CH3"
+            ],
+            "primary_name": "PB11",
+            "swap_group": 0
+        },
+        "32b04b89-7ee6-4c1f-bedd-27341461ac35": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C1_SCL",
+                "USART2_TX",
+                "TIMER1_CH2"
+            ],
+            "primary_name": "PB10",
+            "swap_group": 0
+        },
+        "33d0c6af-b68f-4eae-827c-50c13b6274a8": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C0_SMBA",
+                "SPI2_MOSI",
+                "I2S2_SD",
+                "TIMER2_CH1",
+                "SPI0_MOSI",
+                "CAN1_RX"
+            ],
+            "primary_name": "PB5",
+            "swap_group": 0
+        },
+        "55a14719-84af-4f20-bc9c-03aea8c76910": {
+            "direction": "bidirectional",
+            "names": [
+                "TIMER3_CH3",
+                "I2C0_SDA",
+                "CAN0_TX"
+            ],
+            "primary_name": "PB9",
+            "swap_group": 0
+        },
+        "90b1ec4c-86b4-45cd-a7d0-592e661161f3": {
+            "direction": "bidirectional",
+            "names": [
+                "TIMER3_CH2",
+                "I2C0_SCL",
+                "CAN0_RX"
+            ],
+            "primary_name": "PB8",
+            "swap_group": 0
+        },
+        "a107244a-714d-46ee-a7d0-b83dc2c61f65": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI1_MISO",
+                "USART2_RTS",
+                "TIMER0_CH1_ON"
+            ],
+            "primary_name": "PB14",
+            "swap_group": 0
+        },
+        "a61163df-ec5d-404e-956f-137ed376fa42": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC01_IN8",
+                "TIMER2_CH2",
+                "TIMER0_CH1_ON"
+            ],
+            "primary_name": "PB0",
+            "swap_group": 0
+        },
+        "b1efb27b-a51e-4823-a954-32f903f9e33c": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI1_NSS",
+                "I2S1_WS",
+                "I2C1_SMBA",
+                "USART2_CK",
+                "TIMER0_BRKIN",
+                "CAN1_RX"
+            ],
+            "primary_name": "PB12",
+            "swap_group": 0
+        },
+        "cc850625-06a0-40fa-be6a-30887a28a78d": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI1_MOSI",
+                "TIMER0_CH2_ON",
+                "I2S1_SD"
+            ],
+            "primary_name": "PB15",
+            "swap_group": 0
+        },
+        "e44ec3d4-2e70-45f9-97a3-8c949d67f891": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C0_SDA",
+                "TIMER3_CH1",
+                "USART0_RX"
+            ],
+            "primary_name": "PB7",
+            "swap_group": 0
+        },
+        "ed099bea-0cf4-42b4-a329-ff0da3e3ee51": {
+            "direction": "bidirectional",
+            "names": [
+                "I2C0_SCL",
+                "TIMER3_CH0",
+                "USART0_TX",
+                "CAN1_TX"
+            ],
+            "primary_name": "PB6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d7fc97aa-66e9-4022-92fa-227d7b544172"
+}

@@ -1,0 +1,149 @@
+{
+    "MPN": [
+        false,
+        "C168697"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/szlcsc/1811131841_Jing-Extension-of-the-Electronic-Co-C168697_C168697.pdf"
+    ],
+    "description": [
+        false,
+        "USB Type-C Receptacle"
+    ],
+    "entity": "12c51a77-79ca-4cee-bb04-3e835955f3a0",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Jing Extension of the Electronic Co."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0466135d-260d-4d35-b9fb-3b5ccc2eb521",
+    "pad_map": {
+        "005773eb-6192-4538-9a3a-8000528ebb4d": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "f059d431-be77-4c20-81d9-b2de82ad7cb2"
+        },
+        "009c602e-99c5-4eb1-bd66-19a7d91afb8b": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "2425f6cb-5049-49a0-8c71-1f2350f8d7fa"
+        },
+        "071ec600-56eb-4696-8509-2b8406532471": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "2425f6cb-5049-49a0-8c71-1f2350f8d7fa"
+        },
+        "0faaa64a-0d53-4f96-ab9f-1e3214d35eea": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "1297cbe5-afc7-4237-88e7-f75b34c3db48"
+        },
+        "10233376-05f8-4dcf-aca1-745ba70000f4": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "f7e05b2b-93ed-424a-8ded-f695578e7965"
+        },
+        "1ae8fffb-8262-46d5-9fb6-5dae1b5ed9cc": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "a0952d6f-8127-4e5f-81b8-5b98238ed614"
+        },
+        "1bc2c8b2-844c-427e-b1db-63cfb23da153": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "0adab283-4eee-4bd6-8efe-bf90b1af616a"
+        },
+        "1fb067b9-96f0-4a88-99f4-adf035fd8b3e": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "611bf37a-89c8-474d-9efd-18adc34d2e3d"
+        },
+        "2651ccba-9d0c-441b-841e-a6b50097a67c": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "a3846d79-61b2-4efa-b01f-905e281ed727"
+        },
+        "2789f652-e17a-4dfa-a1cb-657b7e340457": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "f7e05b2b-93ed-424a-8ded-f695578e7965"
+        },
+        "39d1e3e4-23c6-4a9b-a747-c34c78481528": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "2b72006f-f36f-4c5b-a6a9-80a334470851"
+        },
+        "50133fbf-019d-478e-b14e-a02356d58fb1": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "f7e05b2b-93ed-424a-8ded-f695578e7965"
+        },
+        "5234cdc1-5888-4a6e-9b3f-ea17083b4f62": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "4617bf29-2a58-4321-9d32-f8c010e5e299"
+        },
+        "56a9b41f-3577-4e60-83a9-0a418871a671": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "fcf65455-75b4-4998-a56b-3ec02808fd61"
+        },
+        "57c78e28-1033-42b6-b9c7-4d4e51587576": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "863d7aa6-3286-405e-b88a-ca5d9743154e"
+        },
+        "5e6c86f6-3a4d-4bdd-84c1-fb7653d919b9": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "2425f6cb-5049-49a0-8c71-1f2350f8d7fa"
+        },
+        "6277c7b7-0cdd-4abf-9db1-4625fb85f0e6": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "2b72006f-f36f-4c5b-a6a9-80a334470851"
+        },
+        "6ba89b1f-8a2c-4c8f-bc2b-6b927b0bb0c8": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "7664f530-432c-435e-9e5b-fddf7855d072"
+        },
+        "78f92a1a-6ed3-451c-acbc-a33ea177259c": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "c73dde4e-3441-4854-8c33-068029ca3200"
+        },
+        "94bfa5fa-ea08-4d5b-9f09-c77dc6e08604": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "fcf65455-75b4-4998-a56b-3ec02808fd61"
+        },
+        "9bf6717f-bda9-431d-96cf-66e6c2d20d57": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "0adab283-4eee-4bd6-8efe-bf90b1af616a"
+        },
+        "a4a7b997-6fd3-4b48-b8ba-fce3f1131593": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "fcf65455-75b4-4998-a56b-3ec02808fd61"
+        },
+        "b29bbd43-6f92-40cc-b9e8-309b1e96578f": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "29faf4df-a4c1-4851-b25c-a3d8e2a53a56"
+        },
+        "cbb62b7b-e8a6-476b-ae9a-3d31416fb8a2": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "fcf65455-75b4-4998-a56b-3ec02808fd61"
+        },
+        "e30e0b36-4365-4651-93d1-eaf255ed755e": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "fb9fbdb4-365a-4b6c-b065-aa89775d0644"
+        },
+        "f40fd869-c94d-4aab-ba35-30a71a044f76": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "2425f6cb-5049-49a0-8c71-1f2350f8d7fa"
+        },
+        "f918ace7-d695-4366-82c8-0d25bd6e855a": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "64cfcd74-c158-42e6-8de4-3fc48890f20b"
+        },
+        "fd00a668-db16-4478-8645-44068b42ad1a": {
+            "gate": "68d7944b-de7b-4e29-a7ec-85044be94ff1",
+            "pin": "f7e05b2b-93ed-424a-8ded-f695578e7965"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "ba65fcff-0233-4f87-8ab3-958736d15fed",
+    "value": [
+        false,
+        ""
+    ]
+}

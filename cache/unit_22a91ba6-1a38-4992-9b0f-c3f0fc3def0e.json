@@ -1,0 +1,32 @@
+{
+    "manufacturer": "GigaDevice",
+    "name": "GD32VF103CB Port C",
+    "pins": {
+        "01af5ff6-9b11-4d4c-a708-b18a1fa76b59": {
+            "direction": "bidirectional",
+            "names": [
+                "TAMPER-RTC"
+            ],
+            "primary_name": "PC13",
+            "swap_group": 0
+        },
+        "8a7fd883-f825-4fb2-90cc-7d9abfad83ab": {
+            "direction": "bidirectional",
+            "names": [
+                "OSC32IN"
+            ],
+            "primary_name": "PC14",
+            "swap_group": 0
+        },
+        "fca71a41-5c47-428c-82b7-4084e82ac18f": {
+            "direction": "bidirectional",
+            "names": [
+                "OSC32OUT"
+            ],
+            "primary_name": "PC15",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "22a91ba6-1a38-4992-9b0f-c3f0fc3def0e"
+}

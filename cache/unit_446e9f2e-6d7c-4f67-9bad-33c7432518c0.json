@@ -1,0 +1,118 @@
+{
+    "manufacturer": "GigaDevice",
+    "name": "GD32VF103CB Power",
+    "pins": {
+        "044bf94f-19c3-4fb8-9f13-d866602daaa3": {
+            "direction": "bidirectional",
+            "names": [
+                "PB3",
+                "SPI2_SCK",
+                "I2S2_CK",
+                "TIMER1_CH1",
+                "SPI0_SCK"
+            ],
+            "primary_name": "JTDO",
+            "swap_group": 0
+        },
+        "22d4bbfe-b763-42aa-9c02-a2b810c865d9": {
+            "direction": "bidirectional",
+            "names": [
+                "PA13"
+            ],
+            "primary_name": "JTMS",
+            "swap_group": 0
+        },
+        "43b5a2c8-7cf6-4cc4-afe0-4044063ee948": {
+            "direction": "output",
+            "names": [
+                "PD1"
+            ],
+            "primary_name": "OSCOUT",
+            "swap_group": 0
+        },
+        "49ab9851-03e9-4e15-ade9-1b80e8431e8e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "5e7951b5-f826-485f-b898-e6ef35c9f403": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "79e2756d-8795-4bf4-8c69-c212e0b788ec": {
+            "direction": "bidirectional",
+            "names": [
+                "PA15",
+                "SPI2_NSS",
+                "I2S2_WS",
+                "TIMER1_CH0",
+                "_ETI",
+                "SPI0_NSS"
+            ],
+            "primary_name": "JTDI",
+            "swap_group": 0
+        },
+        "8661246e-3fc6-4196-aaec-c92ae2708e7c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "a1f7ed39-b807-44d4-9f62-35053ba58471": {
+            "direction": "bidirectional",
+            "names": [
+                "PB4",
+                "SPI2_MISO",
+                "TIMER2_CH0",
+                "SPI0_MISO"
+            ],
+            "primary_name": "NJTRST",
+            "swap_group": 0
+        },
+        "abca6262-1997-468f-9f5c-b6f2475410c0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA",
+            "swap_group": 0
+        },
+        "b45e2561-9be1-42d5-97ae-beb70bbfde36": {
+            "direction": "bidirectional",
+            "names": [
+                "PA14"
+            ],
+            "primary_name": "JTCK",
+            "swap_group": 0
+        },
+        "b7c1e358-7b55-4a14-ae55-38cdf9a38a51": {
+            "direction": "input",
+            "names": [
+                "PD0"
+            ],
+            "primary_name": "OSCIN",
+            "swap_group": 0
+        },
+        "c411c08f-8544-4793-a6b2-5b40d4ed1096": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BOOT0",
+            "swap_group": 0
+        },
+        "e020850e-9f9e-4a5a-a195-9bcc5f154a54": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "NRST",
+            "swap_group": 0
+        },
+        "f9b0d2bc-1491-4961-8640-93d86f9000ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSSA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "446e9f2e-6d7c-4f67-9bad-33c7432518c0"
+}

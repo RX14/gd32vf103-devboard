@@ -1,0 +1,229 @@
+{
+    "MPN": [
+        false,
+        "GD32VF103CB"
+    ],
+    "datasheet": [
+        false,
+        "http://www.gd32mcu.com/download/down/document_id/221/path_type/1"
+    ],
+    "description": [
+        false,
+        "RISC-V 32bit MCU"
+    ],
+    "entity": "b483357d-f267-4697-96b6-031358c406b2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "GigaDevice"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "542a674d-d9fd-4698-91eb-0fb1cbe51755",
+    "pad_map": {
+        "057dd9c1-60fa-4165-b80b-ba0c2f7fe49c": {
+            "gate": "d15ac6a0-f544-42cc-a3d4-b92955c99a4e",
+            "pin": "fca71a41-5c47-428c-82b7-4084e82ac18f"
+        },
+        "0b5325ec-c0e4-447c-9b7c-9488d95f752e": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "32b04b89-7ee6-4c1f-bedd-27341461ac35"
+        },
+        "199615b7-e53e-4e66-8121-b9f95577cdd9": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "ea77fe21-df3b-40eb-9360-75a061949fcc"
+        },
+        "1a058bde-b091-49ed-aae6-516f56426fd5": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "49ab9851-03e9-4e15-ade9-1b80e8431e8e"
+        },
+        "1eafd2ba-20a3-454f-ab10-7f3bab63c71c": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "cc850625-06a0-40fa-be6a-30887a28a78d"
+        },
+        "1eb4c78e-b8f3-4b4f-b94e-6fb5f3d6462f": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "9e3f3274-918a-494e-95df-f9f6a6dff80c"
+        },
+        "2f3e86a9-35a4-4029-9d06-4354962634f1": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "79e2756d-8795-4bf4-8c69-c212e0b788ec"
+        },
+        "31d06502-4359-4d1c-bcf0-22b12dfa9aa0": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "90b1ec4c-86b4-45cd-a7d0-592e661161f3"
+        },
+        "36226209-fa64-4abb-8c78-455bd273eb89": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "106cce99-786c-46d0-82aa-229ed2795c6b"
+        },
+        "41df8d35-2444-4ffd-a1b5-f7427540d92c": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "000a170a-515a-4b5f-ab0a-bf7335c4b1cf"
+        },
+        "46962d5d-b1a5-40a2-81f2-6280b53fafa6": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "8661246e-3fc6-4196-aaec-c92ae2708e7c"
+        },
+        "4e33329b-787b-4c7c-a336-b8611d544279": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "2473e686-05a7-47dc-b6fc-39491d9d54c7"
+        },
+        "4f91d255-f5fd-4a22-91a9-7da0dfab5a8e": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "a1f7ed39-b807-44d4-9f62-35053ba58471"
+        },
+        "544fada5-d25f-4745-9803-9383bf8b756a": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "044bf94f-19c3-4fb8-9f13-d866602daaa3"
+        },
+        "55e5a3bb-8ff1-45bb-bded-3ddb1c8c60dd": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "e44ec3d4-2e70-45f9-97a3-8c949d67f891"
+        },
+        "570a41d0-0d5c-4594-9be6-844a7416579e": {
+            "gate": "d15ac6a0-f544-42cc-a3d4-b92955c99a4e",
+            "pin": "8a7fd883-f825-4fb2-90cc-7d9abfad83ab"
+        },
+        "572436b0-8f01-4d61-9976-ef1eaf10611b": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "b1efb27b-a51e-4823-a954-32f903f9e33c"
+        },
+        "5a6a85a3-1fe1-4215-840b-a208130461aa": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "191aa552-5272-4416-8eee-4b8b8f40eaf4"
+        },
+        "5aad02fd-950f-41aa-ab53-5cb863eb23e3": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "ed099bea-0cf4-42b4-a329-ff0da3e3ee51"
+        },
+        "5d5d34ba-eaf4-405b-a8d4-d4a2023af830": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "5e7951b5-f826-485f-b898-e6ef35c9f403"
+        },
+        "66550ce6-10db-47b8-a894-f3d0d5f02794": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "43b5a2c8-7cf6-4cc4-afe0-4044063ee948"
+        },
+        "69495fde-b388-403a-876c-1e2399ecba60": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "55a14719-84af-4f20-bc9c-03aea8c76910"
+        },
+        "6cacce6c-0742-4b7b-8778-623053ba2b90": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "a61163df-ec5d-404e-956f-137ed376fa42"
+        },
+        "6e81575b-c862-47b2-91b7-516e91eedddd": {
+            "gate": "d15ac6a0-f544-42cc-a3d4-b92955c99a4e",
+            "pin": "01af5ff6-9b11-4d4c-a708-b18a1fa76b59"
+        },
+        "77bdf909-69f3-438e-8db7-37a3423b027a": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "c411c08f-8544-4793-a6b2-5b40d4ed1096"
+        },
+        "78c324f7-2d96-4bb8-8690-03b677c1e1bd": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "8661246e-3fc6-4196-aaec-c92ae2708e7c"
+        },
+        "81d584d8-f441-4f2d-ac55-246f0a26ac35": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "589ef504-ad76-49b4-851d-eed3386ffd18"
+        },
+        "92eef1a8-26db-4ab6-8acd-7e1d1725cf0a": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "82bcdc89-f1d6-4ded-8eb6-fd4aaa7b82d3"
+        },
+        "9c4c8850-2c71-4630-ad02-bc6dd410b574": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "b7c1e358-7b55-4a14-ae55-38cdf9a38a51"
+        },
+        "9df86e9f-0338-4f52-a18b-08d63f05edd1": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "facd88fc-db4d-497f-86ca-621d6dc2c28c"
+        },
+        "a596662f-3d73-4094-a344-0fafc7ea4beb": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "33cc096c-f4ca-41d7-89f0-69798338a8ef"
+        },
+        "a77b3a76-804d-4e95-9386-743483762583": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "80de1690-6492-41f3-b543-82cf2f5efdde"
+        },
+        "b51e5ad2-3163-4e1e-bcca-2a07b36df084": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "22d4bbfe-b763-42aa-9c02-a2b810c865d9"
+        },
+        "b5ab6f0b-8aa4-4fb6-ad01-fbcb0980fe63": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "8204d7e7-638a-4313-9130-f7b609a8a633"
+        },
+        "b849b8f1-a671-4ae3-8c15-68c356ef98ff": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "a107244a-714d-46ee-a7d0-b83dc2c61f65"
+        },
+        "c6e78890-ed24-474f-bdc9-d04ce19acfc3": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "e57407bc-583c-4e5e-893b-5ac99b271b40"
+        },
+        "ce184460-76c3-469d-99d2-146f4d611ea8": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "68e49da8-ea7e-41d6-9af3-a9a7c683f155"
+        },
+        "dc0fad9d-0f06-454e-8fca-1c18fcbd032e": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "069cdeae-23ec-465e-bf9e-b0b8a5177cbb"
+        },
+        "ddb31cfb-10ea-4653-aab9-5f19601cdbf2": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "7b825026-b51d-45b1-930a-c9ff9e4e3ade"
+        },
+        "df351181-bad2-4fa3-8ba1-940cf6686d7f": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "abca6262-1997-468f-9f5c-b6f2475410c0"
+        },
+        "e4ef7cee-0111-46cc-a326-31f71d4d54f7": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "b45e2561-9be1-42d5-97ae-beb70bbfde36"
+        },
+        "e76c73b9-8710-45f5-b5a7-4106997437af": {
+            "gate": "a7845be7-fd15-4c09-a257-5af3ed3fe3d5",
+            "pin": "e590256d-bea7-4b00-8a8c-af45e87fe798"
+        },
+        "e77fe2b5-5599-430d-8d43-a2d7062429a7": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "49ab9851-03e9-4e15-ade9-1b80e8431e8e"
+        },
+        "e88dbccb-7b24-41da-afcb-0eecc27af17c": {
+            "gate": "398361fc-6d63-43b9-aa1f-df2e052251d8",
+            "pin": "33d0c6af-b68f-4eae-827c-50c13b6274a8"
+        },
+        "ec8e6d9d-0fdc-4e75-b3bb-4266566ae402": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "e020850e-9f9e-4a5a-a195-9bcc5f154a54"
+        },
+        "ece68382-297d-41e3-bf71-c3c62e88063b": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "f9b0d2bc-1491-4961-8640-93d86f9000ef"
+        },
+        "f3dacc42-8225-4a60-9f0e-e710f745190c": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "49ab9851-03e9-4e15-ade9-1b80e8431e8e"
+        },
+        "fc37898b-1b40-4610-9664-cada8d079221": {
+            "gate": "29b5a8be-bf98-419b-83fc-9a7729a919da",
+            "pin": "8661246e-3fc6-4196-aaec-c92ae2708e7c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "mcu",
+        "risc-v"
+    ],
+    "type": "part",
+    "uuid": "660399f3-b35f-4a05-8714-12dc57bdaaef",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "gates": {
+        "29b5a8be-bf98-419b-83fc-9a7729a919da": {
+            "name": "Main",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "446e9f2e-6d7c-4f67-9bad-33c7432518c0"
+        },
+        "398361fc-6d63-43b9-aa1f-df2e052251d8": {
+            "name": "Port B",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "d7fc97aa-66e9-4022-92fa-227d7b544172"
+        },
+        "a7845be7-fd15-4c09-a257-5af3ed3fe3d5": {
+            "name": "Port A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "c18d4551-2e41-48db-92ee-b3619c3cd5a1"
+        },
+        "d15ac6a0-f544-42cc-a3d4-b92955c99a4e": {
+            "name": "Port C",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "22a91ba6-1a38-4992-9b0f-c3f0fc3def0e"
+        }
+    },
+    "manufacturer": "GigaDevice",
+    "name": "GD32VF103CB",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mcu",
+        "risc-v"
+    ],
+    "type": "entity",
+    "uuid": "b483357d-f267-4697-96b6-031358c406b2"
+}

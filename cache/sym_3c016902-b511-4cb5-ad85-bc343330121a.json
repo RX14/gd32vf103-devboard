@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "4166fe4c-232d-45d9-9528-2812993c2391": {
+            "position": [
+                13750000,
+                -5000000
+            ]
+        },
+        "56a8a560-e734-4b60-a22f-ce9850a8724c": {
+            "position": [
+                -13750000,
+                5000000
+            ]
+        },
+        "6c5d579a-b739-475b-8a47-84e23a5fff40": {
+            "position": [
+                13750000,
+                5000000
+            ]
+        },
+        "db004a1e-dae5-457e-860d-ef2dee17416b": {
+            "position": [
+                -13750000,
+                -5000000
+            ]
+        }
+    },
+    "lines": {
+        "0e578c07-7184-4ae7-9a13-1222e5baa550": {
+            "from": "db004a1e-dae5-457e-860d-ef2dee17416b",
+            "layer": 0,
+            "to": "56a8a560-e734-4b60-a22f-ce9850a8724c",
+            "width": 0
+        },
+        "41acf0b7-1129-4627-8508-65a9f7d1f512": {
+            "from": "56a8a560-e734-4b60-a22f-ce9850a8724c",
+            "layer": 0,
+            "to": "6c5d579a-b739-475b-8a47-84e23a5fff40",
+            "width": 0
+        },
+        "6127ef98-06cd-4616-90a2-7e81dc8190be": {
+            "from": "6c5d579a-b739-475b-8a47-84e23a5fff40",
+            "layer": 0,
+            "to": "4166fe4c-232d-45d9-9528-2812993c2391",
+            "width": 0
+        },
+        "a7b9aabc-21c8-4e2b-940a-c96f5b658fe9": {
+            "from": "4166fe4c-232d-45d9-9528-2812993c2391",
+            "layer": 0,
+            "to": "db004a1e-dae5-457e-860d-ef2dee17416b",
+            "width": 0
+        }
+    },
+    "name": "GD32VF103CB Port C",
+    "pins": {
+        "01af5ff6-9b11-4d4c-a708-b18a1fa76b59": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                2500000
+            ]
+        },
+        "8a7fd883-f825-4fb2-90cc-7d9abfad83ab": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                0
+            ]
+        },
+        "fca71a41-5c47-428c-82b7-4084e82ac18f": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                -2500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "3cc45c67-f0b7-4bb5-958d-b45aa3df1ada": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -13750000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "bfd63cbe-68a6-40b2-b57c-886d939bc6b5": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -13750000,
+                    -6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "22a91ba6-1a38-4992-9b0f-c3f0fc3def0e",
+    "uuid": "3c016902-b511-4cb5-ad85-bc343330121a"
+}

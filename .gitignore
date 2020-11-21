@@ -1,0 +1,4 @@
+*.imp_meta
+*.autosave
+.~lock*
+/fab/

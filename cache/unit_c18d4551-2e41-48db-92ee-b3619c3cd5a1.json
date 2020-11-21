@@ -1,0 +1,151 @@
+{
+    "manufacturer": "GigaDevice",
+    "name": "GD32VF103CB Port A",
+    "pins": {
+        "069cdeae-23ec-465e-bf9e-b0b8a5177cbb": {
+            "direction": "bidirectional",
+            "names": [
+                "WKUP",
+                "USART1_CTS",
+                "ADC01_IN0",
+                "TIMER1_CH0_ETI",
+                "TIMER4_CH0"
+            ],
+            "primary_name": "PA0",
+            "swap_group": 0
+        },
+        "33cc096c-f4ca-41d7-89f0-69798338a8ef": {
+            "direction": "bidirectional",
+            "names": [
+                "USART0_CK",
+                "TIMER0_CH0",
+                "CK_OUT0",
+                "USBFS_SOF"
+            ],
+            "primary_name": "PA8",
+            "swap_group": 0
+        },
+        "589ef504-ad76-49b4-851d-eed3386ffd18": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI0_MISO",
+                "ADC01_IN6",
+                "TIMER2_CH0",
+                "TIMER0_BRKIN"
+            ],
+            "primary_name": "PA6",
+            "swap_group": 0
+        },
+        "68e49da8-ea7e-41d6-9af3-a9a7c683f155": {
+            "direction": "bidirectional",
+            "names": [
+                "USART1_RTS",
+                "ADC01_IN1",
+                "TIMER4_CH1",
+                "TIMER1_CH1"
+            ],
+            "primary_name": "PA1",
+            "swap_group": 0
+        },
+        "7b825026-b51d-45b1-930a-c9ff9e4e3ade": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI0_MOSI",
+                "ADC01_IN7",
+                "TIMER2_CH1",
+                "TIMER0_CH0_ON"
+            ],
+            "primary_name": "PA7",
+            "swap_group": 0
+        },
+        "80de1690-6492-41f3-b543-82cf2f5efdde": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI0_SCK",
+                "ADC01_IN5",
+                "DAC_OUT1"
+            ],
+            "primary_name": "PA5",
+            "swap_group": 0
+        },
+        "8204d7e7-638a-4313-9130-f7b609a8a633": {
+            "direction": "bidirectional",
+            "names": [
+                "USART0_TX",
+                "TIMER0_CH1",
+                "USBFS_VBUS"
+            ],
+            "primary_name": "PA9",
+            "swap_group": 0
+        },
+        "82bcdc89-f1d6-4ded-8eb6-fd4aaa7b82d3": {
+            "direction": "bidirectional",
+            "names": [
+                "USART0_RX",
+                "TIMER0_CH2",
+                "USBFS_ID"
+            ],
+            "primary_name": "PA10",
+            "swap_group": 0
+        },
+        "9e3f3274-918a-494e-95df-f9f6a6dff80c": {
+            "direction": "bidirectional",
+            "names": [
+                "USART0_CTS",
+                "CAN0_RX",
+                "TIMER0_CH3",
+                "USBFS_DM"
+            ],
+            "primary_name": "PA11",
+            "swap_group": 0
+        },
+        "e57407bc-583c-4e5e-893b-5ac99b271b40": {
+            "direction": "bidirectional",
+            "names": [
+                "USART0_RTS",
+                "CAN0_TX",
+                "TIMER0_ETI",
+                "USBFS_DP"
+            ],
+            "primary_name": "PA12",
+            "swap_group": 0
+        },
+        "e590256d-bea7-4b00-8a8c-af45e87fe798": {
+            "direction": "bidirectional",
+            "names": [
+                "SPI0_NSS",
+                "USART1_CK",
+                "ADC01_IN4",
+                "DAC_OUT0",
+                "SPI2_NSS",
+                "I2S2_WS"
+            ],
+            "primary_name": "PA4",
+            "swap_group": 0
+        },
+        "ea77fe21-df3b-40eb-9360-75a061949fcc": {
+            "direction": "bidirectional",
+            "names": [
+                "USART1_TX",
+                "ADC01_IN2",
+                "TIMER4_CH2",
+                "TIMER1_CH2"
+            ],
+            "primary_name": "PA2",
+            "swap_group": 0
+        },
+        "facd88fc-db4d-497f-86ca-621d6dc2c28c": {
+            "direction": "bidirectional",
+            "names": [
+                "USART1_RX",
+                "ADC01_IN3",
+                "TIMER4_CH3",
+                "TIMER1_CH3"
+            ],
+            "primary_name": "PA3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c18d4551-2e41-48db-92ee-b3619c3cd5a1"
+}

@@ -1,0 +1,66 @@
+{
+    "MPN": [
+        false,
+        "SP3012-06UTG"
+    ],
+    "datasheet": [
+        false,
+        "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf"
+    ],
+    "description": [
+        false,
+        "ESD Protection, Ultra Low Capacitance, 5V, 6ch"
+    ],
+    "entity": "fc628658-41d4-4376-9646-175556cfec7b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Littelfuse"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "29273a22-ad1a-494a-9600-ef927d2189f4",
+    "pad_map": {
+        "1e681741-02f6-44a1-bf0d-048ac56a7d87": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "caec23b7-a726-4da0-88fe-8f9bdf27548a"
+        },
+        "84e7ca9a-437e-496e-b4a7-972a8e7e1a21": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "e4ab0b71-7f36-41ce-b42d-228f41d83f7f"
+        },
+        "894d83f0-ffd8-4baa-9ed0-77a9b47f86e2": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "ad708782-c076-402b-a20f-697923c2c40e"
+        },
+        "ecafc5aa-8ff4-44ff-a003-ac725b2d0931": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "f26270dd-2a39-4ca1-8a8d-ca506f6367c1"
+        },
+        "f6b9757e-7cca-4257-a7f2-d2c815c51313": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "d97ba434-163e-4820-b1e0-8e682ff9a124"
+        },
+        "fa762144-8d0f-4ba7-b161-37167c736769": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "00ba44ba-d3e1-4444-80fb-d270f50b073d"
+        },
+        "fc56ba95-c417-4475-907e-64eef0e63f19": {
+            "gate": "dbc8902d-fd05-4582-a46b-5e450bc33bef",
+            "pin": "da53b529-3160-454a-9cf9-da98ed3bbdb0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd",
+        "smd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "b722349d-7025-4899-a8ae-83b1662f395c",
+    "value": [
+        false,
+        ""
+    ]
+}

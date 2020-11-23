@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "dbc8902d-fd05-4582-a46b-5e450bc33bef": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "cd0d8104-fe0f-410b-9e0d-8dc9b582c1d1"
+        }
+    },
+    "manufacturer": "Littelfuse",
+    "name": "SP3012-06UTG",
+    "prefix": "U",
+    "tags": [
+        "diode",
+        "esd",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "fc628658-41d4-4376-9646-175556cfec7b"
+}

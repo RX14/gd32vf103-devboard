@@ -1,0 +1,50 @@
+{
+    "manufacturer": "Littelfuse",
+    "name": "SP3012-06UTG",
+    "pins": {
+        "00ba44ba-d3e1-4444-80fb-d270f50b073d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ad708782-c076-402b-a20f-697923c2c40e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "caec23b7-a726-4da0-88fe-8f9bdf27548a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "d97ba434-163e-4820-b1e0-8e682ff9a124": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "da53b529-3160-454a-9cf9-da98ed3bbdb0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "e4ab0b71-7f36-41ce-b42d-228f41d83f7f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "f26270dd-2a39-4ca1-8a8d-ca506f6367c1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "cd0d8104-fe0f-410b-9e0d-8dc9b582c1d1"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "7dbe1990-3076-434f-9f0e-a6522adfaf33": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "686f553b-c79b-41e3-ae4a-28f7cfe288e4"
+        }
+    },
+    "manufacturer": "NXP",
+    "name": "PTN5150A",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "c305794e-a53f-439b-ae7f-b143a325f150"
+}

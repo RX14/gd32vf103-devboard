@@ -1,0 +1,85 @@
+{
+    "MPN": [
+        false,
+        "PTN5150A"
+    ],
+    "datasheet": [
+        false,
+        "https://www.nxp.com/docs/en/data-sheet/PTN5150A.pdf"
+    ],
+    "description": [
+        false,
+        "CC logic for USB Type-C applications"
+    ],
+    "entity": "c305794e-a53f-439b-ae7f-b143a325f150",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NXP"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "59cbf7d9-9c54-43c4-8c87-c937a12943f9",
+    "pad_map": {
+        "14b8a0ab-d615-4298-890d-721f04247fac": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "c406d4cc-3c9d-4982-90c9-584610d54f45"
+        },
+        "1817f493-286d-4240-ba1a-5422eb7921ea": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "ac7617d6-e8d9-410d-864e-3676dc3eb10b"
+        },
+        "3ab65ef0-4ae4-4c16-afd1-92e28adff297": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "9bb45bac-7f44-4d9e-8283-e65843a9ca1e"
+        },
+        "4a60b78b-da06-4194-850e-54904f4ba36d": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "20bfdab2-8842-4d32-ba00-29ee166f9beb"
+        },
+        "55b5a254-9459-493e-bf47-578a554001c7": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "497dc887-10d8-41f2-a2f9-c5f5fab16e71"
+        },
+        "60a7dc0b-7e38-4a57-8755-06ed506ecd44": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "9ca87647-5191-452c-ae48-025d86beee8c"
+        },
+        "62f576d7-8004-43fc-bb44-4a3f0ef605b7": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "58207b7b-8715-4954-9b83-0147c2497d6d"
+        },
+        "6c07245a-adce-4558-bcf0-22f3b317d24d": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "e80fdb13-1da1-4ac9-9216-2f3ecb800c40"
+        },
+        "86f8be48-ab83-4e9f-a9a3-e961b3853dda": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "0260f271-9844-4b5d-b48e-26f604a77968"
+        },
+        "ac2dc824-a24c-45c9-b4b0-54631b92dcd4": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "82236032-1c95-48e0-a197-3ef894dac8e0"
+        },
+        "f5ff1d47-9c0d-4157-beb8-a6d56d7585b0": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "87aae8d5-d1e2-4f95-98ca-c2f56279a019"
+        },
+        "fc5eb6a8-50f2-41a1-b359-f489f5f19c61": {
+            "gate": "7dbe1990-3076-434f-9f0e-a6522adfaf33",
+            "pin": "41778efc-fa5e-46d5-9562-84c52b907538"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "347d3113-ba39-4e25-b556-59012b42e1ab",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "manufacturer": "NXP",
+    "name": "PTN5150A",
+    "pins": {
+        "0260f271-9844-4b5d-b48e-26f604a77968": {
+            "direction": "bidirectional",
+            "names": [
+                "OUT1"
+            ],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "20bfdab2-8842-4d32-ba00-29ee166f9beb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "41778efc-fa5e-46d5-9562-84c52b907538": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "497dc887-10d8-41f2-a2f9-c5f5fab16e71": {
+            "direction": "bidirectional",
+            "names": [
+                "CON_DET"
+            ],
+            "primary_name": "ADR",
+            "swap_group": 0
+        },
+        "58207b7b-8715-4954-9b83-0147c2497d6d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "82236032-1c95-48e0-a197-3ef894dac8e0": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "ID",
+            "swap_group": 0
+        },
+        "87aae8d5-d1e2-4f95-98ca-c2f56279a019": {
+            "direction": "bidirectional",
+            "names": [
+                "OUT2"
+            ],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "9bb45bac-7f44-4d9e-8283-e65843a9ca1e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "9ca87647-5191-452c-ae48-025d86beee8c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS_DET",
+            "swap_group": 0
+        },
+        "ac7617d6-e8d9-410d-864e-3676dc3eb10b": {
+            "direction": "open_collector",
+            "names": [
+                "OUT3"
+            ],
+            "primary_name": "INTB",
+            "swap_group": 0
+        },
+        "c406d4cc-3c9d-4982-90c9-584610d54f45": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PORT",
+            "swap_group": 0
+        },
+        "e80fdb13-1da1-4ac9-9216-2f3ecb800c40": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "EXT_SEL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "686f553b-c79b-41e3-ae4a-28f7cfe288e4"
+}

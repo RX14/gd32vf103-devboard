@@ -809,7 +809,42 @@
                     "texts": []
                 }
             },
-            "texts": {},
+            "texts": {
+                "50a5bce7-b8e2-439f-8bcf-bdf3f20515ef": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            103750000,
+                            110000000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "Power Switches",
+                    "width": 0
+                },
+                "9b2ffc7b-e9f0-4582-9876-905e8c6668ec": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            103750000,
+                            113750000
+                        ]
+                    },
+                    "size": 1500000,
+                    "text": "ESD protection",
+                    "width": 0
+                }
+            },
             "title_block_values": {}
         },
         "99f3892d-1d8c-4f4b-b6cc-fa4a055e8649": {
